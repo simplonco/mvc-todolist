@@ -30,8 +30,8 @@ Votre projet devrait ressembler à ça à la fin :
 https://www.w3schools.com/howto/howto_js_todolist.asp
 
 Il est HAUTEMENT recommandé de s'inspirer de la structure qu'on a mis en place la dernière semaine.
-le livecode : https://github.com/simplonco/poo-mvc-php-step1
-le projet : https://github.com/simplonco/poo-mvc-php
+- le livecode : https://github.com/simplonco/poo-mvc-php-step1
+- le projet : https://github.com/simplonco/poo-mvc-php
 
 Vous pouvez aussi suivre la playlist youtube :
 https://www.youtube.com/watch?v=HSwSAK0btJo&list=PLailkxlaDbh6RF62iN1NN688ou-aNGCoC
