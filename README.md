@@ -5,17 +5,17 @@
 Mettez-vous en équipe de deux.
 Celle qui vous ont été donnée sur Discord.
 
-rene - julien h.
-melinda - flo
-abdour - cheikh
-yué - roy
-thomas - scott
-julien g. - vanisha
-nepheline - steven
-mehdi - david
-guillaume - laurent
-damian - kevin
-edmond - sarah
+- rene - julien h.
+- melinda - flo
+- abdour - cheikh
+- yué - roy
+- thomas - scott
+- julien g. - vanisha
+- nepheline - steven
+- mehdi - david
+- guillaume - laurent
+- damian - kevin
+- edmond - sarah
 
 ### Fonctionnement
 
